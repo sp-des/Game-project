@@ -9,3 +9,6 @@ So basicaly, what you need to do is `npm install`, and then just exectute `node 
 You also need javascript enebled in your browser..
 
 We're working on a way to like, not require javascript..
+
+
+also like, the images aren't mine so like dont sue me
